@@ -6,7 +6,7 @@
 
 C++ · REST APIs · SQLite · C# / .NET · Python
 
-[LinkedIn](https://www.linkedin.com/in/muhammad-akram-87723719b/) · [TaskFlow API](https://github.com/MuhammadAkram00/taskflow-cpp-api)
+[LinkedIn](https://www.linkedin.com/in/muhammad-akram-87723719b/) · [TaskFlow API](https://github.com/MuhammadAkram00/taskflow-cpp-api) · [LogLens](https://github.com/MuhammadAkram00/loglens)
 
 </div>
 
@@ -16,7 +16,15 @@ C++ · REST APIs · SQLite · C# / .NET · Python
 
 I'm studying Computer Science at the **University of Idaho**, with hands-on experience in **C# and .NET**. I'm interested in turning programming fundamentals into useful software and growing through practical projects.
 
-## Featured project
+## Featured projects
+
+### [LogLens · HTTP Log Analytics →](https://github.com/MuhammadAkram00/loglens)
+
+A **Python and SQLite** tool that streams JSONL/gzip HTTP logs into a database, detects duplicate file imports with SHA-256, and generates offline HTML reports with error rates and p50/p95 response times.
+
+Validated with **18 locally passing automated tests** and a **12,000-request synthetic dataset**. Includes transaction rollback, time and path filters, and a reproducible demo. Created as an AI-assisted portfolio learning project.
+
+**[Explore the code and sample report →](https://github.com/MuhammadAkram00/loglens#quick-start)**
 
 ### [TaskFlow · C++ REST API →](https://github.com/MuhammadAkram00/taskflow-cpp-api)
 
